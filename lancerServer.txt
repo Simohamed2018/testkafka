@@ -1,0 +1,8 @@
+  
+  
+  1) C:\kafkaSprinBoot\kafkaServer\bin\windows\zookeeper-server-start.bat C:\kafkaSprinBoot\kafkaServer\config\zookeeper.properties
+  
+  
+  2) C:\kafkaSprinBoot\kafkaServer\bin\windows\kafka-server-start.bat C:\kafkaSprinBoot\kafkaServer\config\server.properties
+  
+  
